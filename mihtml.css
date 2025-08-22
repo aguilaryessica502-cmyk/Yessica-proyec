@@ -1,0 +1,2 @@
+Document.getElementById("myid_01").inertHTML = "Este parrafo a sido cambiado";
+
